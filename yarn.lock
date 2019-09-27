@@ -9126,9 +9126,10 @@ sass-loader@^7.0.3:
     neo-async "^2.5.0"
     pify "^3.0.0"
 
-satellizer@^0.15.5:
-  version "0.15.5"
-  resolved "https://registry.yarnpkg.com/satellizer/-/satellizer-0.15.5.tgz#43c93d2d361c4b6b6cf9d06d23b8881302b557a4"
+satellizer@0.15.5-oodrive:
+  version "0.15.5-oodrive"
+  resolved "https://npm.oodrive.net/satellizer/-/satellizer-0.15.5-oodrive.tgz#8243b094f46756fc9ca399d2da6680fced84d320"
+  integrity sha1-gkOwlPRnVvyco5nS2maA/O2E0yA=
 
 saucelabs@^1.5.0:
   version "1.5.0"

@@ -1,3 +1,15 @@
+= NOTES
+
+This fork is used to integrate the fix the following issue: https://github.com/gravitee-io/issues/issues/2672
+
+Satellizer has been forked as the project's maintainer no longer maintain the project into:
+https://github.com/l-lin/satellizer/
+
+The fix has been published in our internal NPM repository manually via `npm publish` with the version
+`v0.15.5-oodrive`.
+
+This project will not be published anywhere. Its docker image will be tweaked to use this project directly.
+
 = Gravitee Management Webui
 
 ifdef::env-github[]
